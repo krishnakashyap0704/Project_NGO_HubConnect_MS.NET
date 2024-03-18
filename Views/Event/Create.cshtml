@@ -1,0 +1,78 @@
+﻿@model Project_NGO_HubConnect.Models.Event
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Event</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event_Name" class="control-label"></label>
+                <input asp-for="Event_Name" class="form-control" />
+                <span asp-validation-for="Event_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Organisation_Name" class="control-label"></label>
+                <input asp-for="Organisation_Name" class="form-control" />
+                <span asp-validation-for="Organisation_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTime" class="control-label"></label>
+                <input asp-for="DateTime" class="form-control" />
+                <span asp-validation-for="DateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventType" class="control-label"></label>
+                <select asp-for="EventType" class="form-control">
+                    <option value="">Select</option>
+                    <option value="Blood Donation">Blood Donation</option>
+                    <option value="Cleanliness Campaign">Cleanliness Campaign</option>
+                    <option value="Community Health Checkup">Community Health Checkup</option>
+                    <option value="Fund Raiser">Fund Raiser</option>
+                    <option value="Right Education for Children">Right Education for Childern</option>
+                    <option value="Tree Plantation">Tree Plantation</option>
+                    <option value="Women Empowerment">Women Empowerment</option>
+                    <option value="Empowering Women towards Self Reliance">Empowering Women towards Self Reliance</option>
+                </select>
+                <span asp-validation-for="EventType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div><br/>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

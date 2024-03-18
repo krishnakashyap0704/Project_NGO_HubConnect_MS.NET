@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donation</title>
+    <style>
+        .donation-container {
+            justify-content:center;
+            align-items: flex-start;
+        }
+
+        .donation-buttons {
+            display: flex;
+            flex-direction: column;
+            margin: 20px;
+        }
+
+        .donate-button, .subscribe-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .donate-button {
+            background-color: #4CAF50;
+            margin: 10px;
+        }
+
+        .donate-button:hover {
+            background-color: #45a049;
+         }
+
+        .subscribe-button {
+            background-color: #4CAF50;
+            margin: 10px;
+        }
+
+        .subscribe-button:hover {
+           background-color: #45a049;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px; 
+        }
+
+        .image-container img {
+            width: calc(33.33% - 20px); 
+            max-width: 100%;
+            height: auto;
+            aspect-ratio: 4 / 3;
+        }
+    </style>
+</head>
+<body>    
+    <div class="donation-buttons">
+        <div class="donation-container">
+            <p style="font-size:18px;">
+                In a world marked by diverse challenges, there exists an undeniable power within each of us to make a difference. Every act of kindness, no matter how small, has the potential to alleviate the suffering of those facing various adversities. Your donation becomes a beacon of hope, extending a helping hand to those in need. It has the ability to bring warmth to the hearts of individuals grappling with challenges ranging from health crises to social inequalities. Embrace the opportunity to be a source of positive change. Your contribution, no matter the size, becomes a testament to the strength of compassion and the collective impact of individuals united in the pursuit of a better world. Together, let us sow the seeds of generosity and compassion, cultivating a brighter future for those who need it most.
+            </p>
+            <div class="image-container">
+                <img src="~/image/D1.jpg" alt="Image 1">
+                <img src="~/image/D2.jpg" alt="Image 2">
+                <img src="~/image/D3.jpg" alt="Image 3">
+            </div>
+            <div style="display: flex; flex-direction: column; justify-content:center; align-content:center; align-items:center; ">
+                <form action="@Url.Action("Registration", "Payment")">
+                    <button class="subscribe-button">Donate Now</button>
+                </form>
+                <form action="@Url.Action("Index", "Donor")">
+                    <button class="subscribe-button">Donors List</button>
+                </form>
+                <form action="@Url.Action("Create", "Donor")">
+                    <button class="subscribe-button">Registration</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

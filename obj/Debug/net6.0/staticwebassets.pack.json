@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NGO_HubConnect.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NGO_HubConnect.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Site.css",
+      "PackagePath": "staticwebassets\\css\\Site.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\css\\Table.css",
+      "PackagePath": "staticwebassets\\css\\Table.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\About.jpg",
+      "PackagePath": "staticwebassets\\image\\About.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Blood Donation.jpg",
+      "PackagePath": "staticwebassets\\image\\Blood Donation.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Cleanliness.jpg",
+      "PackagePath": "staticwebassets\\image\\Cleanliness.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\D1.jpg",
+      "PackagePath": "staticwebassets\\image\\D1.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\D2.jpg",
+      "PackagePath": "staticwebassets\\image\\D2.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\D3.jpg",
+      "PackagePath": "staticwebassets\\image\\D3.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Fund Raiser.jpg",
+      "PackagePath": "staticwebassets\\image\\Fund Raiser.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H1.jpg",
+      "PackagePath": "staticwebassets\\image\\H1.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H10.jpg",
+      "PackagePath": "staticwebassets\\image\\H10.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H11.jpg",
+      "PackagePath": "staticwebassets\\image\\H11.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H12.jpg",
+      "PackagePath": "staticwebassets\\image\\H12.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H2.jpg",
+      "PackagePath": "staticwebassets\\image\\H2.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H3.jpg",
+      "PackagePath": "staticwebassets\\image\\H3.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H4.jpg",
+      "PackagePath": "staticwebassets\\image\\H4.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H5.jpg",
+      "PackagePath": "staticwebassets\\image\\H5.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H6.jpg",
+      "PackagePath": "staticwebassets\\image\\H6.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H7.jpg",
+      "PackagePath": "staticwebassets\\image\\H7.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H8.jpg",
+      "PackagePath": "staticwebassets\\image\\H8.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\H9.jpg",
+      "PackagePath": "staticwebassets\\image\\H9.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Health Checkup.jpg",
+      "PackagePath": "staticwebassets\\image\\Health Checkup.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Right Education.jpg",
+      "PackagePath": "staticwebassets\\image\\Right Education.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Tree Plantation.jpg",
+      "PackagePath": "staticwebassets\\image\\Tree Plantation.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Women Empowerment.jpg",
+      "PackagePath": "staticwebassets\\image\\Women Empowerment.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\Women self Relaince.jpg",
+      "PackagePath": "staticwebassets\\image\\Women self Relaince.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\ajinkya.jpg",
+      "PackagePath": "staticwebassets\\image\\ajinkya.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\akshay.jpg",
+      "PackagePath": "staticwebassets\\image\\akshay.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\bhavesh.png",
+      "PackagePath": "staticwebassets\\image\\bhavesh.png"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\krishna.jpg",
+      "PackagePath": "staticwebassets\\image\\krishna.jpg"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\image\\rushikesh.JPG",
+      "PackagePath": "staticwebassets\\image\\rushikesh.JPG"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Centre for Development of Advance Computing\\CDAC Mumbai Juhu\\Module 8 - MS.Net\\NGO_HubConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NGO_HubConnect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NGO_HubConnect.props",
+      "PackagePath": "build\\NGO_HubConnect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NGO_HubConnect.props",
+      "PackagePath": "buildMultiTargeting\\NGO_HubConnect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NGO_HubConnect.props",
+      "PackagePath": "buildTransitive\\NGO_HubConnect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

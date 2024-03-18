@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Project_NGO_HubConnect.Models.Donor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div>
+<h2>List of Donors</h2>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonorType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayName("Operations")
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonorType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                    <a asp-action="Details" asp-route-id="@item.Donor_ID" class="btn btn-info">Details</a>
+                    @if (User.IsInRole("Admin"))
+                    {  
+                            <a asp-action="Edit" asp-route-id="@item.Donor_ID" class="btn btn-warning">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Donor_ID" class="btn btn-danger">Delete</a>        
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Project_NGO_HubConnect.Models.Event>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<head>
+    <style>
+        
+        .card:hover {
+            transform: scale(1);
+        }
+
+        table, tr, td{
+            border: hidden;
+            padding:10px;
+        }
+    </style>
+</head>
+
+<h2>Upcoming Events</h2>
+<hr/>
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    }
+    <a asp-controller="Enrollments" asp-action="Index" class="btn btn-info">Enrolled Events</a>
+    <a asp-controller="Volunteer" asp-action="Index" class="btn btn-info">Volunteers</a>
+</p>
+
+<table>
+    <tr>
+@foreach (var item in Model) {
+    <td>
+        <div class="card" style="width: 22rem; height:36rem; border-radius:2%;">
+        <img src="@(item.Image)" asp-append-version="true" class="card-img-top" style="height: 230px; width: 320px; margin-top: 10px;">
+         <div class="card-body">
+             <h5 class="card-title">@item.Event_Name</h5>
+             <h6 class="card-title">Organisation Name : @item.Organisation_Name</h6>
+             <h6 class="card-title">Location : @item.Location</h6>
+             <h6 class="card-title">@item.DateTime</h6>
+             <h6 class="card-title">Event Type : @item.EventType</h6>
+             <p class="card-text description" id="description_@item.Event_ID" style="display: none; flex-grow: 1;">@item.Description</p>
+             <div>
+             <a class="read-more" data-event-id="@item.Event_ID">Show Description</a>
+                    
+            <form asp-action="Create" asp-controller="Enrollments" method="post">
+                <input type="hidden" name="Email" value="@User.Identity.Name" />
+                <input type="hidden" name="EventId" value="@item.Event_ID" />
+                <input type="hidden" name="EventName" value="@item.Event_Name" />
+                <input type="hidden" name="Location" value="@item.Location" />
+                <button type="submit" class="btn btn-primary" style="margin-top:8px;">Register</button>
+            </form>
+            </div>
+                @if (User.IsInRole("Admin"))
+                {
+                    <div style="margin-top: 8px;">
+                         <a asp-action="Edit" asp-route-id="@item.Event_ID" class="btn btn-warning">Edit</a>
+                         <a asp-action="Delete" asp-route-id="@item.Event_ID" class="btn btn-danger">Delete</a>
+                    </div>
+                }
+            <div/>         
+          </div>
+        </td>
+}
+    </tr>
+</table>
+
+@* Script to handle Read More functionality *@
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".card").css("height", "auto");
+            $(".read-more").click(function () {
+                var eventId = $(this).data("event-id");
+                var description = $("#description_" + eventId);
+                description.toggle();
+                $(this).text(description.is(":visible") ? "Hide Description" : "Show Description");
+                $(".card").css("height", "auto");
+            });
+        });
+    </script>
+}

@@ -1,0 +1,56 @@
+﻿@model RegistrationModel
+@{
+    ViewData["Title"] = "Registration";
+}
+
+<h2>Payment Details</h2>
+<hr />
+<div>
+    <form id="paymentForm" asp-action="Payment" method="post">
+        <div class="row mb-3 mt-4">
+            <div class="offset-1 col-1">
+                <strong>Name</strong>
+            </div>
+            <div class="col-3">
+                <input type="text" id="Name" name="Name" class="form-control" asp-for="Name" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-1 col-1">
+                <strong>Mobile</strong>
+            </div>
+            <div class="col-3">
+                <input type="text" id="Mobile" name="Mobile" class="form-control" asp-for="Mobile" required />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-1 col-1">
+                <strong>Email</strong>
+            </div>
+            <div class="col-3">
+                <input type="email" id="Email" name="Email" class="form-control" asp-for="Email" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-1 col-1">
+                <strong>Amount</strong>
+            </div>
+            <div class="col-3">
+                <input type="number" id="Amount" name="Amount" class="form-control" asp-for="Amount" required />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-right offset-1 col-2">
+                <button type="submit" id="paymentButton" class="btn btn-primary">Payment</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

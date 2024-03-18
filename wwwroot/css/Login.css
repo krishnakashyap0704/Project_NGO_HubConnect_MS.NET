@@ -1,0 +1,23 @@
+﻿.Body-login {
+    margin: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Title {
+    text-align: center;
+}
+
+.Container-login {
+    display: block;
+    background-color: white;
+    box-shadow: 4px 4px 7px 4px #ddd;
+    width: 400px;
+    max-height: max-content;
+    padding: 20px 30px;
+    border-radius: 2%;
+}
